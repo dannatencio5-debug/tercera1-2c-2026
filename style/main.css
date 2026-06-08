@@ -31,9 +31,36 @@ menu{
      align-items: center;
      margin-right: 50px;
 }
+
 .menu-derecha a{
     text-decoration: none;
     color: white;
     font-size: 20px;
     margin-right: 20px;
+}
+
+
+@media (max-width: 768px) {
+     .menu-derecha{
+        display: none;
+     }
+
+      menu .hamburguer-icon{
+        background-color: rgb(128, 81, 133);
+        width: 35px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        z-index: 1000;
+
+     }
+
+        menu .hamburguer-icon span{
+            width: 100%;
+            height: 5px;
+            background-color: white;
+        }
+ 
+
+
 }

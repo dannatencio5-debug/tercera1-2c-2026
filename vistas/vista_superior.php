@@ -19,6 +19,15 @@
         <a href="./xbox.php">xbox</a>
         <a href="./nintendo.php">nintendo</a>
         <a href="./playstation.php">playstation</a>
-    </div>
         
-     <menu>
+         </div>
+            
+
+        <div class="hamburger-icon">
+        
+            
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        <menu>
