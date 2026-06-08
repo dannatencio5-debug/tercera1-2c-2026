@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+menu{
+   display: flex;
+   flex-direction: row;
+   height: 150px;
+   background-color: #073b44;
+}
+
+.menu-izquierdo{
+    background-color: #4b8a96;
+    width: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.menu-izquierdo img{
+    width: 150px;
+    height: 150px;
+}
+.menu-derecha{
+     background-color: #030808;
+     width: 80%;
+     display: flex;
+     flex-direction: row;
+     justify-content: right;
+     align-items: center;
+     margin-right: 50px;
+}
+.menu-derecha a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-right: 20px;
+}
