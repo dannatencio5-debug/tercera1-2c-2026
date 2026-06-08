@@ -11,17 +11,20 @@
    <body>
      <menu>
         <div class="menu-izquierdo">
-            <img src="./img/menu.png" alt="menu principal">
+           <img src="./img/menu2.png" alt="menu principal">
+             <a href="./index.php">
         </a>
       </div>
      <div class="menu-derecha">
         <a href="./index.php">inicio</a>
-        <a href="./xbox.php">xbox</a>
-        <a href="./nintendo.php">nintendo</a>
-        <a href="./playstation.php">playstation</a>
+        <a href="./romance.php">Romance</a>
+        <a href="./fantasia.php">Fantasia</a>
+        <a href="./misterio.php">Misterio</a>
         
          </div>
-            
+            <div class="menu-container
+        
+        
 
         <div class="hamburger-icon">
         
